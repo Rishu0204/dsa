@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishu0204/dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Rishu0204/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Rishu0204/dsa/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishu0204/dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Rishu0204/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/Rishu0204/dsa/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Rishu0204/dsa/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Rishu0204/dsa/tree/master/0792-binary-search) |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Rishu0204/dsa/tree/master/0367-valid-perfect-square) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Rishu0204/dsa/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
