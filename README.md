@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishu0204/dsa/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Rishu0204/dsa/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rishu0204/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Rishu0204/dsa/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishu0204/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu0204/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishu0204/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishu0204/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishu0204/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rishu0204/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -76,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu0204/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishu0204/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
