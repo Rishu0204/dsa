@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu0204/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishu0204/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/Rishu0204/dsa/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rishu0204/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Rishu0204/dsa/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Rishu0204/dsa/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Rishu0204/dsa/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rishu0204/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Rishu0204/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rishu0204/dsa/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Rishu0204/dsa/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
