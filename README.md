@@ -105,4 +105,8 @@
 | [0110-balanced-binary-tree](https://github.com/Rishu0204/dsa/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rishu0204/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishu0204/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rishu0204/dsa/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
