@@ -8,4 +8,3 @@ GROUP BY A.product_id
 ;
 
 
--- A.product_id , ROUND(AVG(A.price),2) AS average_price
