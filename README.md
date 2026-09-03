@@ -26,6 +26,7 @@
 | [0048-rotate-image](https://github.com/Rishu0204/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rishu0204/dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rishu0204/dsa/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishu0204/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu0204/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishu0204/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishu0204/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -152,4 +153,8 @@
 | [2057-count-salary-categories](https://github.com/Rishu0204/dsa/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Rishu0204/dsa/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rishu0204/dsa/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishu0204/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
