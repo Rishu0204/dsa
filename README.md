@@ -10,6 +10,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishu0204/dsa/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Rishu0204/dsa/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Rishu0204/dsa/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@
 | [0056-merge-intervals](https://github.com/Rishu0204/dsa/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishu0204/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu0204/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Rishu0204/dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishu0204/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishu0204/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0907-koko-eating-bananas](https://github.com/Rishu0204/dsa/tree/master/0907-koko-eating-bananas) |
@@ -53,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rishu0204/dsa/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Rishu0204/dsa/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
