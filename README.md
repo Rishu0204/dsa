@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/Rishu0204/dsa/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Rishu0204/dsa/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/Rishu0204/dsa/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu0204/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishu0204/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rishu0204/dsa/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/Rishu0204/dsa/tree/master/1768-merge-strings-alternately) |
 ## Tree
 |  |
 | ------- |
